@@ -1,0 +1,81 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+17
+'Ingresa tu edad'
+5
+1
+4
+edad
+7
+0
+1
+6
+edad<3
+7
+0
+1
+7
+edad<13
+7
+0
+1
+7
+edad<19
+7
+0
+1
+7
+edad<29
+7
+0
+1
+7
+edad<59
+7
+0
+1
+7
+edad>60
+13
+4
+1
+26
+'Tu etapa es adulto mayor'
+13
+13
+4
+1
+20
+'Tu etapa es adulto'
+13
+13
+4
+1
+19
+'Tu etapa es joven'
+13
+13
+4
+1
+25
+'Tu etapa es adolescente'
+13
+13
+4
+1
+19
+' Tu etapa es niño'
+13
+13
+4
+1
+18
+'Tu etapa es Bebe'
+13
+1

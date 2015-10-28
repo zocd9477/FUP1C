@@ -1,0 +1,90 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+31
+'Ingresa el total de la cuenta'
+5
+1
+1
+x
+7
+0
+1
+6
+x<1000
+7
+0
+1
+18
+x>=1000 and x<5000
+7
+0
+1
+6
+x>5000
+13
+6
+2
+3
+pro
+6
+x*0.10
+5
+total
+5
+x+pro
+4
+1
+14
+'Propina', pro
+4
+1
+22
+'Total a pagar', total
+13
+13
+6
+2
+3
+pro
+6
+x*0.16
+6
+total 
+5
+pro+x
+4
+1
+14
+'Propina', pro
+4
+1
+22
+'Total a pagar', total
+13
+13
+6
+2
+3
+pro
+6
+x*0.20
+5
+total
+5
+x+pro
+4
+1
+14
+'Propina', pro
+4
+1
+22
+'Total a pagar', total
+13
+1

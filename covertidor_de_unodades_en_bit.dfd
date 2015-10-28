@@ -1,0 +1,47 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+32
+'Convertidor de unidades en bit'
+4
+1
+27
+'Ingresa megas a convertir'
+5
+1
+5
+megas
+6
+3
+4
+bits
+23
+(((megas*1024)*1024))*8
+5
+bytes
+19
+((megas*1024)*1024)
+2
+kb
+10
+megas*1024
+6
+2
+2
+gb
+10
+megas/1024
+2
+tb
+19
+((megas/1024)/1024)
+4
+1
+122
+'Total en bits',bits,'Total en bytes      ',bytes,'Total en kilobytes',kb,'Total en gigabytes ',gb,'Total en terabytes',tb
+1

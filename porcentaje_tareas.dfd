@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+24
+"Ingresa tareas totales"
+5
+1
+2
+tt
+4
+1
+38
+"Equivalencia de tareas en porcentaje"
+5
+1
+2
+tp
+4
+1
+28
+"Ingresa tareas realizadas "
+5
+1
+2
+tr
+6
+1
+9
+resultado
+10
+(tt*tp)/tr
+4
+1
+28
+"Tu porcentaje es",resultado
+1
